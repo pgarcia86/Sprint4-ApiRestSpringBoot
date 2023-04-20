@@ -1,0 +1,10 @@
+INSERT INTO frutas (id, nombre, cant) VALUES (1, 'GERANIO', 25);
+INSERT INTO frutas (id, nombre, cant) VALUES (2, 'TULIPAN', 25);
+INSERT INTO frutas (id, nombre, cant) VALUES (3, 'AMAPOLA', 25);
+INSERT INTO frutas (id, nombre, cant) VALUES (4, 'ORQUIDEA', 25);
+INSERT INTO frutas (id, nombre, cant) VALUES (5, 'CLAVEL', 25);
+INSERT INTO frutas (id, nombre, cant) VALUES (6, 'CALA', 25);
+INSERT INTO frutas (id, nombre, cant) VALUES (7, 'ROSA', 25);
+INSERT INTO frutas (id, nombre, cant) VALUES (8, 'JAZMIN', 25);
+INSERT INTO frutas (id, nombre, cant) VALUES (9, 'PETUNIA', 25);
+INSERT INTO frutas (id, nombre, cant) VALUES (10, 'GLADIOLO', 25);
